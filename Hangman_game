@@ -1,4 +1,4 @@
-import random
+import random 
 
 # Step 1: Predefined list of words
 words = ["apple", "tiger", "house", "pizza", "zebra"]
